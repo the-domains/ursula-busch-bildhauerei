@@ -1,7 +1,7 @@
 name: 'Ursula Busch - Bildhauerei '
 favicon: null
-layout_spectrum: 0.88322
-typography_spectrum: 0.52316
+layout_spectrum: 0.51882
+typography_spectrum: 0.43777
 title: MyHomeDesign
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.625
   lightness: 0
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
