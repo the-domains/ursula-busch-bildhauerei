@@ -1,7 +1,7 @@
 name: 'Ursula Busch - Bildhauerei '
 favicon: null
-layout_spectrum: 0.8423338735010475
-typography_spectrum: 0.4209332645405084
+layout_spectrum: 0.88322
+typography_spectrum: 0.52316
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5807964452542365
-  lightness: 0.8548545397352427
-  saturation: 0.9815853494219482
-  rhythmicContrast: 0.17021071957424283
+    - '#969db1'
+    - '#586881'
+    - '#6a7a94'
+    - '#224155'
+    - '#0f2b38'
+  brandStrength: 0.625
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
