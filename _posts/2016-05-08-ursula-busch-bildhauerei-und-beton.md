@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ursula Busch - Bildhauerei und Beton
-datePublished: '2016-05-08T23:17:51.493Z'
-dateModified: '2016-05-08T23:14:01.915Z'
+datePublished: '2016-05-08T23:40:37.254Z'
+dateModified: '2016-05-08T23:17:56.973Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-ursula-busch-bildhauerei-und-beton.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-ursula-busch-bildhauerei-und-beton.md
 url: ursula-busch-bildhauerei-und-beton/index.html
 _type: Article
 
