@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ursula Busch - Bildhauerei ]]></title>
-        <description><![CDATA[Ursula Busch - Bildhauerei ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[MyHomeDesign]]></title>
+        <description><![CDATA[MyHomeDesign]]></description>
+        <link>https://thegrid.ai/ursula-busch-bildhauerei/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 23:18:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 23:35:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ursula-busch-bildhauerei/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My Home Design</p>]]></description>
+            <link>https://thegrid.ai/ursula-busch-bildhauerei/my-home-design/index.html</link>
+            <guid isPermaLink="false">0aa95565-60b6-4e44-9dfe-d0c005d7b90e</guid>
+            <pubDate>Sun, 08 May 2016 23:35:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/124c09bd-6c72-4144-b40d-2dfa7f3a8db3.jpg">]]></description>
-            <link>undefinedursula-busch-bildhauerei-und-beton/index.html</link>
+            <link>https://thegrid.ai/ursula-busch-bildhauerei/ursula-busch-bildhauerei-und-beton/index.html</link>
             <guid isPermaLink="false">dacf296f-1d8f-4647-82bf-d23a568f0391</guid>
             <pubDate>Sun, 08 May 2016 23:17:51 GMT</pubDate>
         </item>
